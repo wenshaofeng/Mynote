@@ -1,0 +1,6 @@
+### [webpack-安装踩坑](https://segmentfault.com/a/1190000014159004)
+#####[解决：Error: Cannot find module 'webpack'](https://blog.csdn.net/lwpoor123/article/details/81186929)
+##### [运行webpack报错：Cannot read property 'presetToOptions' of undefined](https://segmentfault.com/q/1010000015550485)
+#####[Webpack 3.X - 4.X 升级记录](https://blog.csdn.net/qq_16559905/article/details/79404173)
+#####[webpack打包错误 ERROR in multi ./src/main.js ./dist/bundle.js](https://www.jianshu.com/p/a55fb5bf75e1)
+###[webpack4.x开发环境配置](https://blog.csdn.net/u012443286/article/details/79504289)
